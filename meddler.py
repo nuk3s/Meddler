@@ -3,6 +3,7 @@ from selenium import webdriver
 import sys
 
 #requires https://github.com/mozilla/geckodriver/releases to be in the path to function
+#requires the selenium python package, install via pip install selenium
 #tested on x64 Ubuntu 18.04 and mozilla firefox 63
 #Author: nuk3s
 
